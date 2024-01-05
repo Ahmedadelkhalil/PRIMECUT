@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PRIMECUT/static/css/main.84fbc9f2.css",
-    "main.js": "/PRIMECUT/static/js/main.402843e4.js",
+    "main.css": "/PRIMECUT/static/css/main.8a487ef1.css",
+    "main.js": "/PRIMECUT/static/js/main.44a0e673.js",
     "static/media/semi.jpg": "/PRIMECUT/static/media/semi.76e993150bc8ff3d496b.jpg",
     "static/media/slider_06sdf.jpg": "/PRIMECUT/static/media/slider_06sdf.1cab963eff055b05b57c.jpg",
     "static/media/slider_05.jpg": "/PRIMECUT/static/media/slider_05.669f8367324d0b818c36.jpg",
@@ -58,11 +58,11 @@
     "static/media/MAYONNAISE.webp": "/PRIMECUT/static/media/MAYONNAISE.68af0a7032a372083fcc.webp",
     "index.html": "/PRIMECUT/index.html",
     "static/media/Arrow.svg": "/PRIMECUT/static/media/Arrow.d5b4bb771b7bac590197d2d52433bee0.svg",
-    "main.84fbc9f2.css.map": "/PRIMECUT/static/css/main.84fbc9f2.css.map",
-    "main.402843e4.js.map": "/PRIMECUT/static/js/main.402843e4.js.map"
+    "main.8a487ef1.css.map": "/PRIMECUT/static/css/main.8a487ef1.css.map",
+    "main.44a0e673.js.map": "/PRIMECUT/static/js/main.44a0e673.js.map"
   },
   "entrypoints": [
-    "static/css/main.84fbc9f2.css",
-    "static/js/main.402843e4.js"
+    "static/css/main.8a487ef1.css",
+    "static/js/main.44a0e673.js"
   ]
 }
