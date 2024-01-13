@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/PRIMECUT/static/css/main.d5a0729c.css",
-    "main.js": "/PRIMECUT/static/js/main.263bf416.js",
+    "main.css": "/PRIMECUT/static/css/main.4325ec07.css",
+    "main.js": "/PRIMECUT/static/js/main.bd6d9d71.js",
     "static/media/semi.jpg": "/PRIMECUT/static/media/semi.76e993150bc8ff3d496b.jpg",
+    "static/media/voucher.jpg": "/PRIMECUT/static/media/voucher.03815b8054822d796356.jpg",
+    "static/media/6.jpg": "/PRIMECUT/static/media/6.1cab963eff055b05b57c.jpg",
     "static/media/slider_06sdf.jpg": "/PRIMECUT/static/media/slider_06sdf.1cab963eff055b05b57c.jpg",
     "static/media/slider_05.jpg": "/PRIMECUT/static/media/slider_05.669f8367324d0b818c36.jpg",
     "static/media/slider_01.jpg": "/PRIMECUT/static/media/slider_01.c1109475754d816bc160.jpg",
+    "static/media/1.jpg": "/PRIMECUT/static/media/1.313bb4aeff1526580c5a.jpg",
     "static/media/slider_06.jpg": "/PRIMECUT/static/media/slider_06.c2f83be1a7a75dfcd5c0.jpg",
     "static/media/Italian_Kito.jpg": "/PRIMECUT/static/media/Italian_Kito.a6fae011e7200320585e.jpg",
     "static/media/slider_02.jpg": "/PRIMECUT/static/media/slider_02.f5ed51e1df72fafafd59.jpg",
@@ -15,6 +18,7 @@
     "static/media/Hot Chocolate.jpg": "/PRIMECUT/static/media/Hot Chocolate.2577dda140d6c1c2c35c.jpg",
     "static/media/special-chicken-burger.jpg": "/PRIMECUT/static/media/special-chicken-burger.53a88872f9a58672cc99.jpg",
     "static/media/Chili-Crispy.jpg": "/PRIMECUT/static/media/Chili-Crispy.fe58e04014ef0eb87c8a.jpg",
+    "static/media/about.jpg": "/PRIMECUT/static/media/about.a84a1dbe6b0e6882771d.jpg",
     "static/media/classic one.jpg": "/PRIMECUT/static/media/classic one.c0bed9ff55e69465dbaa.jpg",
     "static/media/PANCAKE.jpg": "/PRIMECUT/static/media/PANCAKE.28aea8f4186df76498dd.jpg",
     "static/media/slider_04.jpg": "/PRIMECUT/static/media/slider_04.c302e070b274c0b2dfc0.jpg",
@@ -58,11 +62,11 @@
     "static/media/MAYONNAISE.webp": "/PRIMECUT/static/media/MAYONNAISE.68af0a7032a372083fcc.webp",
     "index.html": "/PRIMECUT/index.html",
     "static/media/Arrow.svg": "/PRIMECUT/static/media/Arrow.d5b4bb771b7bac590197d2d52433bee0.svg",
-    "main.d5a0729c.css.map": "/PRIMECUT/static/css/main.d5a0729c.css.map",
-    "main.263bf416.js.map": "/PRIMECUT/static/js/main.263bf416.js.map"
+    "main.4325ec07.css.map": "/PRIMECUT/static/css/main.4325ec07.css.map",
+    "main.bd6d9d71.js.map": "/PRIMECUT/static/js/main.bd6d9d71.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5a0729c.css",
-    "static/js/main.263bf416.js"
+    "static/css/main.4325ec07.css",
+    "static/js/main.bd6d9d71.js"
   ]
 }
