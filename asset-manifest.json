@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PRIMECUT/static/css/main.4325ec07.css",
-    "main.js": "/PRIMECUT/static/js/main.bd6d9d71.js",
+    "main.js": "/PRIMECUT/static/js/main.0bdcbba2.js",
     "static/media/semi.jpg": "/PRIMECUT/static/media/semi.76e993150bc8ff3d496b.jpg",
     "static/media/voucher.jpg": "/PRIMECUT/static/media/voucher.03815b8054822d796356.jpg",
     "static/media/6.jpg": "/PRIMECUT/static/media/6.1cab963eff055b05b57c.jpg",
@@ -63,10 +63,10 @@
     "index.html": "/PRIMECUT/index.html",
     "static/media/Arrow.svg": "/PRIMECUT/static/media/Arrow.d5b4bb771b7bac590197d2d52433bee0.svg",
     "main.4325ec07.css.map": "/PRIMECUT/static/css/main.4325ec07.css.map",
-    "main.bd6d9d71.js.map": "/PRIMECUT/static/js/main.bd6d9d71.js.map"
+    "main.0bdcbba2.js.map": "/PRIMECUT/static/js/main.0bdcbba2.js.map"
   },
   "entrypoints": [
     "static/css/main.4325ec07.css",
-    "static/js/main.bd6d9d71.js"
+    "static/js/main.0bdcbba2.js"
   ]
 }
