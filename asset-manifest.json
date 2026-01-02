@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/PRIMECUT/static/css/main.924b9365.css",
-    "main.js": "/PRIMECUT/static/js/main.f771b595.js",
+    "main.js": "/PRIMECUT/static/js/main.6f750805.js",
     "static/css/556.c06856a9.chunk.css": "/PRIMECUT/static/css/556.c06856a9.chunk.css",
-    "static/js/556.a3e2f4e5.chunk.js": "/PRIMECUT/static/js/556.a3e2f4e5.chunk.js",
+    "static/js/556.3f639cca.chunk.js": "/PRIMECUT/static/js/556.3f639cca.chunk.js",
     "static/css/356.7903ac65.chunk.css": "/PRIMECUT/static/css/356.7903ac65.chunk.css",
     "static/js/356.a6a0d50d.chunk.js": "/PRIMECUT/static/js/356.a6a0d50d.chunk.js",
     "static/css/275.51d0e00a.chunk.css": "/PRIMECUT/static/css/275.51d0e00a.chunk.css",
@@ -40,9 +40,9 @@
     "index.html": "/PRIMECUT/index.html",
     "static/media/Arrow.svg": "/PRIMECUT/static/media/Arrow.d5b4bb771b7bac590197d2d52433bee0.svg",
     "main.924b9365.css.map": "/PRIMECUT/static/css/main.924b9365.css.map",
-    "main.f771b595.js.map": "/PRIMECUT/static/js/main.f771b595.js.map",
+    "main.6f750805.js.map": "/PRIMECUT/static/js/main.6f750805.js.map",
     "556.c06856a9.chunk.css.map": "/PRIMECUT/static/css/556.c06856a9.chunk.css.map",
-    "556.a3e2f4e5.chunk.js.map": "/PRIMECUT/static/js/556.a3e2f4e5.chunk.js.map",
+    "556.3f639cca.chunk.js.map": "/PRIMECUT/static/js/556.3f639cca.chunk.js.map",
     "356.7903ac65.chunk.css.map": "/PRIMECUT/static/css/356.7903ac65.chunk.css.map",
     "356.a6a0d50d.chunk.js.map": "/PRIMECUT/static/js/356.a6a0d50d.chunk.js.map",
     "275.51d0e00a.chunk.css.map": "/PRIMECUT/static/css/275.51d0e00a.chunk.css.map",
@@ -74,6 +74,6 @@
   },
   "entrypoints": [
     "static/css/main.924b9365.css",
-    "static/js/main.f771b595.js"
+    "static/js/main.6f750805.js"
   ]
 }
