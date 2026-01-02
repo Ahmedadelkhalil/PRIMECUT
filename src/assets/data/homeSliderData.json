@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Home_Slider_Img_01",
+    "slogan": "simply great burgers and fries",
+    "adsTitle": "It's always a good time to eat in that place.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/PRIMECUT-IMGS/db1b09d2a6c7b21c36e10253ea654b6693d35206/img_slider_01.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_02",
+    "slogan": "simply great burgers and fries",
+    "adsTitle": "Tasty bites, endless delights.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/PRIMECUT-IMGS/db1b09d2a6c7b21c36e10253ea654b6693d35206/img_slider_02.webp"
+  },
+  {
+    "id": "Home_Slider_Img_03",
+    "slogan": "simply great burgers and fries",
+    "adsTitle": "We Bring the fries game to a whole new level.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/PRIMECUT-IMGS/db1b09d2a6c7b21c36e10253ea654b6693d35206/img_slider_03.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_04",
+    "slogan": "simply great burgers and fries",
+    "adsTitle": "beef Burger is the soundtrack of my life.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/PRIMECUT-IMGS/db1b09d2a6c7b21c36e10253ea654b6693d35206/img_slider_04.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_05",
+    "slogan": "simply great burgers and fries",
+    "adsTitle": "It doesn’t get cozier than this.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/PRIMECUT-IMGS/db1b09d2a6c7b21c36e10253ea654b6693d35206/img_slider_05.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_06",
+    "slogan": "simply great burgers and fries",
+    "adsTitle": "The unlimited cranch and ranch.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/PRIMECUT-IMGS/db1b09d2a6c7b21c36e10253ea654b6693d35206/img_slider_06.jpg"
+  }
+]

@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+:root {
+  --bg-dark-green: #21372b;
+  --main-color-white: #faf3eb;
+  --main-color-green: #21372b;
+}
+* {
+  padding: 0 !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
+body {
+  font-family: "Oswald" !important;
+  overflow-x: hidden !important;
+  background-color: var(--main-color-white) !important;
+}
+a {
+  text-decoration: none !important;
+}
+/* CUSTOM COLOR CLASSES */
+.bg-dark-green {
+  background-color: var(--bg-dark-green);
+}
+.main-color-white {
+  color: var(--main-color-white);
+}
+.main-color-green {
+  color: var(--main-color-green);
+}
+/* CUSTOM SCROLL BAR */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--main-color-white);
+}
+::-webkit-scrollbar-thumb {
+  background: #31473b;
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "cardDesign": "imgLeft",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/PRIMECUT-IMGS/bd7c3b1b599be1756d9c35fcaad7c47308b10df8/monthSpecial_01.jpg",
+    "title": "JANUARY SPECIALS",
+    "p_01": "There’s two specials available until 05 February. Our beef special is in collaboration with The Jolly Hog showcasing their double smoked, black treacle cured bacon. Alongside American cheese, Bacon dust shoestring fries, chipotle mayo, lettuce and pickles.",
+    "p_02": "Our vegan option is the Bacon Plant – starting with a Beyond Meat plant patty, La Vie plant-based bacon, Applewood vegan cheese, Bacon dust shoestring fries, vegan chipotle mayo,"
+  },
+  {
+    "cardDesign": "imgRight",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/PRIMECUT-IMGS/bd7c3b1b599be1756d9c35fcaad7c47308b10df8/monthSpecial_02.jpg",
+    "title": "DISCOVER LOCAL MENU",
+    "p_01": "We make our burgers from scratch in our own butchery. It’s not the easiest way but it means we can serve our burgers pink, so they eat more like a steak. We buy the best Egyptian potatoes from local farmers then double-cooked and rosemary salted. Always fresh, never frozen.",
+    "p_02": "You can find Egyptian beef burgers, free-range and halal chicken burgers, vegetarian and plant-based vegan burgers, and our homemade rosemary salted chips."
+  }
+]
